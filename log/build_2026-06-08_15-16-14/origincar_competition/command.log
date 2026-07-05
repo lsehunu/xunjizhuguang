@@ -1,0 +1,2 @@
+Invoking command in '/userdata/dev_ws/src/build/origincar_competition': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/install/line_follower_pkg:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake --build /userdata/dev_ws/src/build/origincar_competition -- -j8 -l8
+Invoked command in '/userdata/dev_ws/src/build/origincar_competition' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/root/install/line_follower_pkg:/opt/tros/humble:/opt/ros/humble /usr/bin/cmake --build /userdata/dev_ws/src/build/origincar_competition -- -j8 -l8
